@@ -1,0 +1,13 @@
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\bin\Debug\netcoreapp3.1\PrimoParImpar.exe
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\bin\Debug\netcoreapp3.1\PrimoParImpar.deps.json
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\bin\Debug\netcoreapp3.1\PrimoParImpar.runtimeconfig.json
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\bin\Debug\netcoreapp3.1\PrimoParImpar.runtimeconfig.dev.json
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\bin\Debug\netcoreapp3.1\PrimoParImpar.dll
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\bin\Debug\netcoreapp3.1\PrimoParImpar.pdb
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\obj\Debug\netcoreapp3.1\PrimoParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\obj\Debug\netcoreapp3.1\PrimoParImpar.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\obj\Debug\netcoreapp3.1\PrimoParImpar.AssemblyInfo.cs
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\obj\Debug\netcoreapp3.1\PrimoParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\obj\Debug\netcoreapp3.1\PrimoParImpar.dll
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\obj\Debug\netcoreapp3.1\PrimoParImpar.pdb
+C:\Users\Fabio\Documents\csharp\projetos\PrimoParImpar\obj\Debug\netcoreapp3.1\PrimoParImpar.genruntimeconfig.cache
